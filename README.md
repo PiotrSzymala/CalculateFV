@@ -8,7 +8,7 @@ Project done for training purposes and to consolidate my knowledge
 
 ## Used technologies
 Project is created with:
-* C# version 9.0 
+* C#
 
 ## Project status
 Developing ended 
